@@ -1,5 +1,1 @@
-*** abcde
-*** defgh
-*** ijklmnop
-I was not here before!
-Neither was I, but I am happy to be here now
+abcd
