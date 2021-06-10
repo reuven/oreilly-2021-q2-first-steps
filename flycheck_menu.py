@@ -6,3 +6,6 @@ def menu(*args):
             return choice
 
         print(f'Illegal choice; try again')
+
+
+# when I say "import menu" from another file,         
