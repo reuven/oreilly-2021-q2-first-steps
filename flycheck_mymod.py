@@ -10,6 +10,7 @@ def hello(name):
 
 
 # this code means:
-# Only run the stuff in the "if" block if we were runs# as a standa
+# Only run the stuff in the "if" block if we were runs# as a standalone program
+# if we were imported by someone, don't execute stuff below the line.
 if __name__ == '__main__':
     print(f'Goodbye from {__name__}!')
