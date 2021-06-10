@@ -1,6 +1,6 @@
 def menu(*args):
     while True:
-        choice = input('Enter choice {args}: ').strip()
+        choice = input(f'Enter choice {args}: ').strip()
 
         if choice in args:
             return choice
